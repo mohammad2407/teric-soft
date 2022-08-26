@@ -1,0 +1,64 @@
+{
+    "BMX" :[
+        {
+            "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tim_Knoll_BMX_darkslide_grind.jpg/510px-Tim_Knoll_BMX_darkslide_grind.jpg",
+            "heading1" :"Day 1 of BMX",
+            "btn1" :"Highlights",
+            "btn2":"Heats"
+        },
+
+        {
+            "img":"https://images.unsplash.com/photo-1576282577948-50480284e7b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14fGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "heading1" :"Day 2 of BMX",
+            "btn1" :"Highlights",
+            "btn2":"Heats"
+        },{
+            "img":"https://media.istockphoto.com/photos/man-bmx-acrobatic-figure-silhouette-picture-id523001707?k=20&m=523001707&s=612x612&w=0&h=hGzHfkvQY1xq4bbPZyD5vLeWc9S0YK0T1p8vOYo8Z2E=",
+            "heading1" :"Day 3 of BMX",
+            "btn1" :"Highlights",
+            "btn2":"Heats"
+        }
+    ],
+
+    "Mountain":[
+        {
+            "img": "https://images.squarespace-cdn.com/content/v1/5d86f31b49946f56c223d2e1/1569427234730-6B9YGNBOYOSAQABXL5T0/a-pair-of-mountain-bikers-riding-in-the-dolomites-range-in-noertheastern-italy%252B%2525281%252529.jpg?format=1500w",
+            "heading":"Day 1 of Mountain bike",
+            "btn1" :"Highlights",
+            "btn2":"Heats"
+        },
+        {
+            "img": "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/10/Untitled-design-102.jpg",
+            "heading":"Day 2 of Mountain bike",
+            "btn1" :"Highlights",
+            "btn2":"Heats"
+        },
+        {
+            "img": "https://www.outsideonline.com/wp-content/uploads/2019/04/17/kate-courney-mtb_s.jpg",
+            "heading":"Day 3 of Mountain bike",
+            "btn1" :"Highlights",
+            "btn2":"Heats"
+        }
+    ],
+
+    "Road":[
+        {
+            "img":"https://www.rei.com/dam/content_022717_0622_road_biking_for_beginners_lg.jpg",
+            "heading":"Day 1 of Road bike",
+            "btn1" :"Highlights",
+            "btn2":"Heats"
+        },
+        {
+            "img":"https://images.immediate.co.uk/production/volatile/sites/21/2019/12/Decathlon-wild-ride-03-0a3d073-e1579267869591.jpg?quality=45&resize=1068,712",
+            "heading":"Day 2 of Road bike",
+            "btn1" :"Highlights",
+            "btn2":"Heats"
+        },
+        {
+            "img":"https://coresites-cdn-adm.imgix.net/rcuk/wp-content/uploads/2016/09/Best-Of-British-Ribble-Valley-10.jpg?fit=crop",
+            "heading":"Day 3 of Road bike",
+            "btn1" :"Highlights",
+            "btn2":"Heats"
+        }
+    ]
+}
